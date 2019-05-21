@@ -1,12 +1,12 @@
 # Crm
 Crm test application made with Laravel 5.8, bootstrap, gulp...
 REQUIREMENTS
-PHP 7.2
-MySql
-Apache
-Composer
-Gulp
-Npm
+*PHP 7.2
+*MySql
+*Apache
+*Composer
+*Gulp
+*Npm
 
 ## 1. INSTALLATION
 
