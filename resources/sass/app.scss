@@ -1,0 +1,95 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// // Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+
+body{
+	font-family:'Nunito';
+}
+
+footer{
+	background-color:#f8f9fa;
+	color:#000;
+	font-style:italic;
+	font-size:0.7rem;
+	border-top:1px solid #ccc;
+}
+
+.home-menu{
+	padding:3rem;
+	.card{
+		margin:0.5rem;
+		width:18rem;
+	}
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+  	h2, h3, h4{
+		margin-bottom:2rem;
+	}
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem; 
+  padding:5px;           /* Footer height */
+}
+
+#logo-header{
+	max-height:50px;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+.clients-list.
+	td{
+		vertical-align: middle;
+	}
+	form{
+		margin-bottom:0px;
+	}
+}
+
+.transactions-list form, .navbar form{
+	margin-bottom:0px;
+}
+
+.display-none{
+	display: none;
+}
+
+#unlink-avatar{
+	cursor:pointer;
+}
+
+.nav-item{
+	margin-right:20px;
+}
+
+.paginator{
+	margin:0.5rem auto;
+}
+
+
+@media only screen and (max-width: 600px) {
+  table td, table th {
+    font-size:0.6rem;
+  }
+  button{
+  	font-size:0px;
+  }
+}
+
