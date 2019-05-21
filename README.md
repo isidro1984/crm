@@ -54,3 +54,8 @@ The setup should be ok. If you go to the url choosen on the virtual host you sho
 
 ## 3. Login on the system. 
 
+### OTHER CONSIDERATIONS:
+
+- The CSS main file is inside resources/sass folder. You will need to use Gulp in order to compile and minify the file. 
+- In this Version I didn't minify the JS because it only has 10 lines, but we must to add it on gulp processor. 
+
