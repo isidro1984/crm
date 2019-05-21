@@ -8,7 +8,7 @@ Composer
 Gulp
 Npm
 
-1. INSTALLATION
+## 1. INSTALLATION
 
 Depending on your System, Windows, Linux this setup might change, use this documentation as a general help. 
 
@@ -38,7 +38,7 @@ Open a console and run composer update to update the libraries of composer.
 
 Go to your browser and check if the page works. 
 
-2. Database installation.
+## 2. Database installation.
 
 We have two process to do with the database: 
 
@@ -52,5 +52,5 @@ The password is 'password' and user admin@admin.com
 
 The setup should be ok. If you go to the url choosen on the virtual host you should see the website with the login form. 
 
-3. Login on the system. 
+## 3. Login on the system. 
 
